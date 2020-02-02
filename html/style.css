@@ -1,0 +1,117 @@
+.jumbotron {     
+    background-image: url(flower.jpg);
+	background-size: cover;
+	text-align: center;
+	background-position:center;
+	margin-bottom:0;
+	background-repeat:no-repeat;
+			
+}
+		
+.welcome{
+
+	margin-top:10%;
+	margin-bottom:10%;
+}
+		
+body{
+	font-family: Helvetica Neue, Helvetica, Tahoma, Arial, serif, sans-serif;
+	font-weight: 100;
+
+}
+        .title-block{
+		    text-align:center;
+		    margin-top: 3%;
+			margin-bottom: 3%;
+			color: #563D7C;
+			font-weight: 100;
+			font-family:san-serif;
+			font-size:300%;
+		
+		}
+		
+		.subtitle{
+		 
+		    font-family:Comic Sans MS, Comic Sans, cursive,sans-serif;;
+		    color: #563D7C;
+		    font-weight: 300;
+			margin-bottom: 2%;
+			margin-top: 2%;
+		}
+		
+		.experience-title{
+		
+		    font-weight: bold; 
+		
+		}
+		
+		.content-block{		    
+			margin-bottom: 5%;		
+		
+		}
+		
+		.Penn{
+		    width:40px;
+			height:40px;
+			float:right;
+			margin:0;
+		
+		}
+		
+		#Profile{
+			background-color:#f2f4ff;
+			margin:0;
+		}
+		#Experiences{
+			margin:0;
+		}		
+		#Skills{
+		    background-color:#f2f4ff;
+			margin: 0;
+		}
+		#More{
+		    background-color:#f2f4ff;
+			margin: 0;
+		}		
+		
+		
+		.extra-roles{
+		    font-size:120%
+		
+		}
+		
+		.sub-skills{
+		    margin: 0;
+		
+		}
+		
+		
+		.yuwei-name{
+		    font-family: Comic Sans MS, Comic Sans, cursive,sans-serif; 
+			font-weight: bold;
+			color:#191970;
+			font-style:italic;
+		}
+		
+		.time-place{
+		    text-align: right;
+		}
+		.circular--squareP{
+		    width:50%;
+			height:50%;
+            border-radius:50%;
+        }
+	    .fa_custom {
+             color: #FFD700;
+        }	
+		.navbar-custom {
+             background-color: #FFFFFF;
+        }
+		.progress{
+		    width: 30%;
+			float:right;
+		}
+        .skills{margin:10%;}
+		.copyright {text-align: center;}
+	  
+        body {position: relative;}	
