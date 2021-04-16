@@ -8,15 +8,9 @@
 			
 }
 		
-.welcome{
-
-	margin-top:10%;
-	margin-bottom:10%;
-}
-		
 body{
 	font-family: Helvetica Neue, Helvetica, Tahoma, Arial, serif, sans-serif;
-	font-weight: 100;
+	font-weight: 95;
 
 }
         .title-block{
@@ -26,7 +20,7 @@ body{
 			color: #563D7C;
 			font-weight: 100;
 			font-family:san-serif;
-			font-size:300%;
+			font-size:150%;
 		
 		}
 		
@@ -34,7 +28,7 @@ body{
 		 
 		    font-family:Comic Sans MS, Comic Sans, cursive,sans-serif;;
 		    color: #563D7C;
-		    font-weight: 300;
+		    font-weight: 200;
 			margin-bottom: 2%;
 			margin-top: 2%;
 		}
@@ -59,47 +53,66 @@ body{
 		}
 		
 		#Profile{
-			background-color:#f2f4ff;
 			margin:0;
 		}
-		#Experiences{
+		#Research{
+			margin:0;
+		}
+		#Work{
 			margin:0;
 		}		
-		#Skills{
-		    background-color:#f2f4ff;
+		#Projects{
 			margin: 0;
 		}
 		#More{
-		    background-color:#f2f4ff;
 			margin: 0;
 		}		
-		
-		
 		.extra-roles{
-		    font-size:120%
+		    font-size:100%
 		
 		}
-		
 		.sub-skills{
 		    margin: 0;
 		
 		}
 		
-		
 		.yuwei-name{
 		    font-family: Comic Sans MS, Comic Sans, cursive,sans-serif; 
 			font-weight: bold;
-			color:#191970;
+			color:#563D7C;
 			font-style:italic;
 		}
-		
+	
+		.robotics{
+		    font-family: Comic Sans MS, Comic Sans, cursive,sans-serif; 
+			font-weight: bold;
+			color:#563D7C;
+		}
+
+
+		.papers{
+		    font-family: Times New Roman, Comic Sans MS, Comic Sans, cursive,sans-serif;
+		}
+
+		.paper_title{
+		    font-family: Times New Roman, Comic Sans MS, Comic Sans, cursive,sans-serif;
+			font-weight: bold;
+		}		
+
+
+
+
+		.container.custom-container-width {
+			max-width: 850px;       // 最後內容寬會是 980px
+		}
+
 		.time-place{
 		    text-align: right;
 		}
 		.circular--squareP{
-		    width:50%;
-			height:50%;
-            border-radius:50%;
+		    width:80%;
+			height:80%;
+            border-radius:0%;
         }
 	    .fa_custom {
              color: #FFD700;
