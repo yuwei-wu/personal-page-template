@@ -9,7 +9,7 @@
 }
 		
 body{
-	font-family: Helvetica Neue, Helvetica, Tahoma, Arial, serif, sans-serif;
+	font-family: Arial, serif, sans-serif;
 	font-weight: 95;
 
 }
@@ -26,7 +26,7 @@ body{
 		
 		.subtitle{
 		 
-		    font-family:Comic Sans MS, Comic Sans, cursive,sans-serif;;
+		    font-family: Arial, cursive,sans-serif;
 		    color: #563D7C;
 		    font-weight: 200;
 			margin-bottom: 2%;
@@ -91,11 +91,11 @@ body{
 
 
 		.papers{
-		    font-family: Times New Roman, Comic Sans MS, Comic Sans, cursive,sans-serif;
+		    font-family: Arial, cursive,sans-serif;
 		}
 
 		.paper_title{
-		    font-family: Times New Roman, Comic Sans MS, Comic Sans, cursive,sans-serif;
+		    font-family: Arial, cursive,sans-serif;
 			font-weight: bold;
 		}		
 
