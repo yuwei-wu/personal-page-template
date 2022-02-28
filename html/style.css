@@ -1,16 +1,17 @@
 .jumbotron {     
-    background-image: url(flower.jpg);
+    background-image: url(background.jpeg);
 	background-size: cover;
 	text-align: center;
 	background-position:center;
 	margin-bottom:0;
 	background-repeat:no-repeat;
 			
-}
 		
 body{
 	font-family: Arial, serif, sans-serif;
 	font-weight: 95;
+} 
+
 
 }
         .title-block{
