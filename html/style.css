@@ -9,7 +9,7 @@
 		
 body{
 	font-family: Arial, serif, sans-serif;
-	font-weight: 95;
+	font-weight: 90;
 } 
 
 
@@ -21,17 +21,20 @@ body{
 			color: #563D7C;
 			font-weight: 100;
 			font-family:san-serif;
-			font-size:150%;
+			font-size:100%;
 		
 		}
 		
 		.subtitle{
 		 
-		    font-family: Arial, cursive,sans-serif;
+		    font-family: "Times New Roman", Times, serif;
 		    color: #563D7C;
+		    text-align:center;
 		    font-weight: 200;
 			margin-bottom: 2%;
 			margin-top: 2%;
+			font-size:150%;
+			font-style: italic
 		}
 		
 		.experience-title{
@@ -78,14 +81,14 @@ body{
 		}
 		
 		.yuwei-name{
-		    font-family: Comic Sans MS, Comic Sans, cursive,sans-serif; 
+		    font-family: Comic Sans MS,  cursive,sans-serif; 
 			font-weight: bold;
 			color:#563D7C;
 			font-style:italic;
 		}
 	
 		.robotics{
-		    font-family: Comic Sans MS, Comic Sans, cursive,sans-serif; 
+		    font-family: Comic Sans MS, cursive,sans-serif; 
 			font-weight: bold;
 			color:#563D7C;
 		}
